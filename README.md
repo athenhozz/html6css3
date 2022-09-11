@@ -1,1 +1,3 @@
-# html6css3
+# HTML5 e CSS3
+### PLANEJAMENTO 
+[cetic]
